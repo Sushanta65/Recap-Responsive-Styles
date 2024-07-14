@@ -1,0 +1,17 @@
+/* work sans font */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+h2{
+    font-family: "Work Sans", sans-serif;
+}
+
+.d-flex{
+    display: flex;
+}
+.navbar{
+    justify-content: space-between;
+}
+.navbar ul{
+    list-style: none;
+    gap: 10px;
+}
